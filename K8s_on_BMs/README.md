@@ -1,4 +1,4 @@
-# Kubernetes in the Data Center
+# Kubernetes in the Data Center. (deprecated but still usefull - https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
 
 A Book for deploying Kubernetes systems on Bare Metal
 
